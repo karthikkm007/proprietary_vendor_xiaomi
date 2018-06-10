@@ -27,8 +27,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wt88047/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_1_6.fw \
     vendor/xiaomi/wt88047/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_2_0.fw \
     vendor/xiaomi/wt88047/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/xiaomi/wt88047/proprietary/etc/firmware/a300_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/a300_pfp.fw \
-    vendor/xiaomi/wt88047/proprietary/etc/firmware/a300_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/a300_pm4.fw \
+    vendor/xiaomi/wt88047/proprietary/etc/firmware/a300_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a300_pfp.fw \
+    vendor/xiaomi/wt88047/proprietary/etc/firmware/a300_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a300_pm4.fw \
     vendor/xiaomi/wt88047/proprietary/lib/libOmxVdecHevc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVdecHevc.so \
     vendor/xiaomi/wt88047/proprietary/lib/libcnefeatureconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcnefeatureconfig.so \
     vendor/xiaomi/wt88047/proprietary/etc/firmware/venus.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/venus.b00 \
